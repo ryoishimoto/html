@@ -292,7 +292,7 @@ Hyper Text Markup Language（ハイパーテキスト・マークアップ・ラ
 <br>
 以下の画像のように表示されれば正解です！<br>
 
-<img src="./others/images/html/after.png" width="100%" style="border:solid 1px #ccc;"><br>
+<img src="./images/after.png" width="100%" style="border:solid 1px #ccc;"><br>
 
 ##参考
 [htmlの復習とHTML5のお勉強](http://qiita.com/piotzkhider/items/62d2a0975dbdd0ef78b2)
