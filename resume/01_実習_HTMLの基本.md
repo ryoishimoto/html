@@ -269,7 +269,7 @@ Hyper Text Markup Language（ハイパーテキスト・マークアップ・ラ
 </html>
 ```
 
-<img src="./others/images/html/before.png" width="100%" style="border:solid 1px #ccc;"><br>
+<img src="./images/before.png" width="100%" style="border:solid 1px #ccc;"><br>
 <br>
 
 少し改良してみましょう！
